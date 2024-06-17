@@ -2,7 +2,7 @@
 alpova
 [[package]]
 name = "packaging"
-version = "23.2"
+version = "23.1"
 description = "Core utilities for Python packages"
 optional = false
 python-versions = ">=3.7"
